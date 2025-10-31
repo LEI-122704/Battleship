@@ -4,6 +4,15 @@
 - Pedro Nunes (LEI-122704)
 - Sebastian Rodriguez (LEI-122667)
 
+
+## Workflow
+
+- A cada push ou pull request vai dar run ao workflow.
+- O Maven compila o projeto e executa todos os testes unitários (JUnit 4).
+- O status do workflow é mostrado numa badge.
+
+Badge: ![Java CI](https://github.com/LEI-122704/Battleship/actions/workflows/maven.yml/badge.svg)
+
 # Battleship
 
 Basic academic version of Battleship game to build upon.
