@@ -8,7 +8,7 @@
 ## Workflow
 
 - A cada push ou pull request vai dar run ao workflow.
-- O Maven compila o projeto e executa todos os testes unitários (JUnit 4).
+- O Maven compila o projeto e executa todos os testes unitários.
 - O status do workflow é mostrado numa badge.
 
 Badge: [![Java CI with Maven](https://github.com/LEI-122704/Battleship/actions/workflows/maven.yml/badge.svg)](https://github.com/LEI-122704/Battleship/actions/workflows/maven.yml)
