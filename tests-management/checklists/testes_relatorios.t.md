@@ -6,6 +6,10 @@
 * C5 CarrackTest
 * C6 FrigateTest
 * C7 GalleonTest
+* C8 CompassTest
+* C9 FleetTest
+* C10 PositionTest
+* C11 ShipTest
 
 ## S4 Tasks test case
-* C8 TasksTest
+* C12 TasksTest
