@@ -1,11 +1,12 @@
 /**
  *
  */
-package iscteiul.ista.battleship;
+package iscteiul.ista;
 
 import java.util.Scanner;
 
 
+import iscteiul.ista.battleship.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
