@@ -19,9 +19,9 @@
 
 * [passed] C5 CarrackTest - 122704
 
-* [unknown] C6 FrigateTest
+* [passed] C6 FrigateTest - 122686
 
-* [unknown] C7 GalleonTest
+* [passed] C7 GalleonTest - 122686
 
 
 ### S4 Tasks test case
