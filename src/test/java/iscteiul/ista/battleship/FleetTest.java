@@ -60,7 +60,6 @@ class FleetTest {
         public void shoot(IPosition pos) { floating = false; }
     }
 
-
     @BeforeEach
     void setUp() {
         fleet = new Fleet();
