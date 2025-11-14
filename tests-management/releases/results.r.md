@@ -23,7 +23,11 @@
 
 * [passed] C7 GalleonTest - 122686
 
+* [passed] C8 CompassTest - 122696
+
 * [passed] C9 FleetTest - 122667
+
+* [passed] C10 PositionTest - 122696
 
 * [passed] C11 ShipTest - 122667
 
