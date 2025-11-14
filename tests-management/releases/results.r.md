@@ -3,21 +3,21 @@
 ## Testing Checklists
 
 ### S1 Release checklist
-* [unknown] C1 Reports
+* [passed] C1 Reports
 
 
 ### S2 Automated tests checklist
-* [unknown] C2 Unit tests
+* [passed] C2 Unit tests
 
 
 ## Unit tests
 
 ### S3 Ships test case
-* [unknown] C3 BargeTest
+* [passed] C3 BargeTest - 122704
 
-* [unknown] C4 CaravelTest
+* [passed] C4 CaravelTest - 122704
 
-* [unknown] C5 CarrackTest
+* [passed] C5 CarrackTest - 122704
 
 * [unknown] C6 FrigateTest
 
@@ -25,6 +25,6 @@
 
 
 ### S4 Tasks test case
-* [unknown] C8 TasksTest
+* [passed] C8 TasksTest
 
 
