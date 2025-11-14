@@ -15,7 +15,7 @@ class FleetTest {
     Fleet fleet;
 
     // Classe Position para testes
-    static class FakePosition implements IPosition {
+    class FakePosition implements IPosition {
         int row, col;
 
         FakePosition(int r, int c) { row = r; col = c; }
