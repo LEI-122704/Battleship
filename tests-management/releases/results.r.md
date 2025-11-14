@@ -23,6 +23,10 @@
 
 * [passed] C7 GalleonTest - 122686
 
+* [passed] C9 FleetTest - 122667
+
+* [passed] C11 ShipTest - 122667
+
 
 ### S4 Tasks test case
 * [passed] C8 TasksTest
